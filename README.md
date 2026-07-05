@@ -85,28 +85,28 @@ python app.py
 
 ### 🔐 Login Page
 
-![Login](images/login.png)
+![Login](login.png)
 
 ---
 
 ### 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ### 📋 Health Report
 
-![Health Report](images/health_report.png)
+![Health Report](health_report.png)
 
 ---
 
 ### 💊 Map (hotspot)
 
-![Map (hotspot)](images/map.png)
+![Map (hotspot)](map.png)
 
 ---
 
 ### 🤖 Detector
 
-![detector](images/predictor.png)
+![detector](predictor.png)
