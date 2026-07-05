@@ -75,11 +75,7 @@ python app.py
 
 ## 👨‍💻 Project Team
 
-**Kartik Sahu**<br>
-**Kashish Sharma**<br>
 **Karishma Singh**<br>
-**Navya Sharma**<br>
-**Samarth Jindal**
 
 ## 📸 Screenshots
 
