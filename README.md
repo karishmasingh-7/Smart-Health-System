@@ -42,7 +42,7 @@ The platform also supports water quality monitoring, hotspot visualization, and 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/kartiksahu2927/Smart-Health-Surveillance-and-Early-Warning-System.git
+git clone https://github.com/karishmasingh-7/Smart-Health-Surveillance-and-Early-Warning-System.git
 cd Smart-Health-Surveillance-and-Early-Warning-System
 pip install -r requirements.txt
 python app.py
